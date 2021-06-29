@@ -1,0 +1,21 @@
+{
+  "name": "codefi",
+  "version": "1.1.0",
+  "description": "Discord bot for lo-fi music radio",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ballerini-Server/Codefi.git"
+  },
+  "author": "Ballerini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ballerini-Server/Codefi/issues"
+  },
+  "homepage": "https://github.com/Ballerini-Server/Codefi#readme"
+}
